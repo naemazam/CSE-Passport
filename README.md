@@ -2,23 +2,23 @@
 
 আপনার CSE লাইফকে সহজ ও সাকসেসফুল করতে চান? তাহলে “CSE পাসপোর্ট 🎓” - আপনার জন্যই!
 এখানে আপনি পাবেন CSE স্টুডেন্টদের জন্য ১৫টি সেরা ভিডিও 📚  যেখানে আলোচনা করা হয়েছে —
-✅ Programming & Skill Roadmaps
-✅ CGPA vs Skills রিয়েলিটি
-✅ Research & Scholarship Secrets
-✅ Laptop Buying Guide (New & Used)
-✅ Freelancing & Passive Income Tips 💸
-✅ Govt Jobs & BCS after CSE 🇧🇩
-✅ Time Management & Productivity হ্যাকস ⏰
-✅ ATS-Proof CV Masterclass
-✅ Hackathon & Presentation জিতার টিপস 🏆
-✅ Zero Experience এ Internship & Job পাওয়ার গাইড
-✅ ৩য় বর্ষের স্টুডেন্টদের জন্য Career Rebuild Plan
+- ✅ Programming & Skill Roadmaps
+- ✅ CGPA vs Skills রিয়েলিটি
+- ✅ Research & Scholarship Secrets
+- ✅ Laptop Buying Guide (New & Used)
+- ✅ Freelancing & Passive Income Tips 💸
+- ✅ Govt Jobs & BCS after CSE 🇧🇩
+- ✅ Time Management & Productivity হ্যাকস ⏰
+- ✅ ATS-Proof CV Masterclass
+- ✅ Hackathon & Presentation জিতার টিপস 🏆
+- ✅ Zero Experience এ Internship & Job পাওয়ার গাইড
+- ✅ ৩য় বর্ষের স্টুডেন্টদের জন্য Career Rebuild Plan
 
 🎥 **YouTube Playlist:** [CSE Roadmaps And Tips](https://youtube.com/playlist?list=PL-dWyZ8prR9WpXyV3ZQMc0DVrzphClHfk&si=0yD46u34ZoonDKCQ)
 
 ---
 
-## 🔥 What’s Inside
+## 🔥 What’s Inside Playlist
 
 ### 📚 CSE Roadmap Complete Guide🔥 Programming, Skills, CGPA, Research, Earning, Scholarship! 
 🎓 ৪ বছরের Complete CSE Roadmap (Skill + CGPA + Research + Scholarship Goal)
@@ -31,7 +31,7 @@
 তাহলে এই ভিডিওটা আপনার জন্য ৪ বছরের একদম ফুল রোডম্যাপ — যা আপনাকে শুরু থেকে প্রফেশনাল লেভেল পর্যন্ত পৌঁছে দেবে ইনশাআল্লাহ। 
 [Watch Video ](https://youtu.be/lK47Ebrc39w)
 
----
+--- 
 
 ### 📚 Perfect Laptop For CSE Students 🤯 Laptop for Coding, AI, ML & Freelancing 🔥 2026 Guide 
 আপনি যদি একজন CSE Student, Programmer, AI/ML Enthusiast, বা Freelancer হন – এই ভিডিওটি আপনার জন্যই! 💻🔥 এই ভিডিওতে আমি শেয়ার করেছি 2025 সালের জন্য সেরা Laptop Buying Guide,  যেখানে আপনি জানতে পারবেন:
@@ -49,10 +49,11 @@
 [Watch](https://youtu.be/ZshkOSznnxk)
 
 ---
-
 ### Tech Career Without Coding in 2025! 💻 Coding ছাড়াই IT ক্যারিয়ার! High Salary Jobs 
 কোডিং বা ম্যাথ ভালো লাগে না? তবু IT ক্যারিয়ার সম্ভব! এই ভিডিওতে শিখুন ২০২৫ সালের সেরা Non-Coding স্কিলগুলো – যেগুলো দিয়ে CS or Non-CS গড়ে তুলতে পারেন হাই ইনকাম ক্যারিয়ার।  
 [Watch](https://youtu.be/5dAAUNZpcvE)
+
+---
 
 ### Top Books Every CSE Student MUST Read 📚 Career, Code, Soft Skills & Financial Freedom  
 Coding জানলেই সব হয় না — একজন সাধারণ CSE স্টুডেন্ট থেকে  একজন টেক লিডার, ইনফ্লুয়েন্সার, আর ফিনান্সিয়ালি ফ্রি মানুষ হতে চাইলে এই ভিডিও তোমার জন্য!  💥   এই ভিডিওতে যা থাকছে:
@@ -65,6 +66,7 @@ Coding জানলেই সব হয় না — একজন সাধা�
 ✅ Powerful Focus দিয়ে distraction দূর করো  
 [Watch ](https://youtu.be/7ySrGAIQQVA)
 
+---
 
 ### Govt Job Guide for CSE Students 🇧🇩 CSE পড়ে সরকারি চাকরি! BCS থেকে ব্যাংক পর্যন্ত 🔥 
 আমাদের দেশে হাজার হাজার শিক্ষার্থী CSE পড়ে বেকার বসে থাকে কারণ তারা জানেই না—সরকারি চাকরিতে কত গুলো পদে তারা Apply করতে পারে। আর যারা জানে, তাদের কাছে নেই একটা Clear Strategy বা Step-by-Step প্ল্যান!  আজকের এই ভিডিও/পোস্টে আমি দেখাবো—কীভাবে CSE ব্যাকগ্রাউন্ড থেকেও সরকারি চাকরি, BCS, ব্যাংক, মন্ত্রণালয়, এমনকি কলেজে Lecturer হওয়া যায়! 🎓 
@@ -76,6 +78,7 @@ Coding জানলেই সব হয় না — একজন সাধা�
 
 [Watch ](https://youtu.be/j5qNd8bNTQ0)
 
+---
 
 ### CGPA vs. Skills 🔥 What is more important for your career? সত্যি কি CGPA ম্যাটার করে না?
 তোমার CGPA কি ৩.০ এর নিচে? আর তুমি ভাবছো — 'দোস্ত, স্কিল আছে তো, চাকরি হয়ে যাবে!' 🤔 কিন্তু একটা কথা বলি... HR-রা কি তোমার GitHub খোলে নাকি CGPA দেখে ফিল্টার করে? 😮 আবার অনেকে তো ৩.৯৫ CGPA নিয়েও বসে আছে — কারণ কোড লিখতে গেলে মাথা ঘুরায়! 🤯
@@ -92,6 +95,8 @@ AI Tools দিয়ে Learning Hack কিভাবে করবো?
 
 [Watch](https://youtu.be/kg6774DQa9o)
 
+---
+
 ### Time Management MasterPlan For CS and Non-CS Students ⏰ Productivity, Focus, Tips 
 তোমার সময় কোথায় যাচ্ছে, জানো তো? Code লিখতে গিয়ে ফেসবুক চেক, DSA করার বদলে রিল ভিডিও? Focus নাই? Motivation down? এই ভিডিও তোমার জন্য! কীভাবে নিজের Focus ধরে রেখে, Time waste না করে, Skill build করে ক্যারিয়ারকে অন্য লেভেলে নিয়ে যেতে পারো।  
 
@@ -100,6 +105,8 @@ AI Tools দিয়ে Learning Hack কিভাবে করবো?
 ✅ Learn how to manage your time like a pro
 ✅ Stay focused in a world full of distractions
 ✅ Build habits that future-proof your success 
+
+---
 
 
 ### Making A Perfect CV Masterclass 🔥 AI Proof ATS CV Tips 2025 | CS & Non-CS  
@@ -113,6 +120,7 @@ AI Tools দিয়ে Learning Hack কিভাবে করবো?
 
 [Watch ](https://youtu.be/G3Wrn0KS644)
 
+---
 
 ### How to Make Money as a Student in 2025 💸 ৭টি Smart Side Hustle আইডিয়া 
 🎓 ২০২৫ সালে স্টুডেন্টদের জন্য ৭টি Side Hustle আইডিয়া! 💼
@@ -127,6 +135,7 @@ Time Management সহ অনেক টিপস
 
 [Watch](https://youtu.be/k7ng1tdsUYA)
 
+---
 
 ### 3rd Year Career Rebuild Plan for Backbenchers 💯 এক বছরে কমব্যাক 🎯 CSE & Non-CS 
 🎓 3rd Year এ আছেন কিন্তু CGPA খারাপ, স্কিল নাই? এই ভিডিওতে আছে এক বছরের ফুল রোডম্যাপ — স্কিল ডেভেলপমেন্ট, স্কলারশিপ প্রিপারেশন, রিমোট জব, এবং নিজের ব্র্যান্ড তৈরির পথ। এক বছরে ক্যারিয়ার রিবুট করে Tech Hero হোন! 🔥 — চাইলেই তুমি জীবনটা বদলে দিতে পারো! 
@@ -139,6 +148,8 @@ Time Management সহ অনেক টিপস
 ✅ বাংলাদেশের বাস্তবতা অনুযায়ী সাজানো একটি রোডম্যাপ 
 
 [watch ](https://youtu.be/ohnhqD1Wi1E)
+
+---
 
 ### How to Give a Perfect Presentation 👨‍🎓 University Presentation Skills Masterclass  
 প্রেজেন্টেশন আসলে হলো একটা গল্প। আপনি যদি মানুষকে গল্পে আনতে পারেন, তাহলেই আপনি জিতে গেলেন। তুমি যদি Computer Science অথবা অন্য যেকোনো সাবজেক্টে পড়ো — presentation একদিন না একদিন দিতেই হবে। আর তোমার ক্যারিয়ারে একটা পারফেক্ট প্রেজেন্টেশনই হতে পারে game changer! তাই আজ থেকেই শুরু করো… 
@@ -153,6 +164,7 @@ Time Management সহ অনেক টিপস
 
 [Watch ](https://youtu.be/8THR_vQHfZo)
 
+---
 
 ### Hackathon Winner Masterclass: From Beginner to Champion! for CSE Students!
 কীভাবে আপনি হ্যাকাথন জিততে পারেন? একেবারে শুরু থেকে! একেবারে শূন্য থেকে তিনটা মেজর ট্রাক সফটওয়্যার, সিকিউরিটি, AI এবং ডাটা সাইন্সের উপরের আয়োজন করা যে কোনো হ্যাকাথন গুলোর অ্যাপ্লিকেশন থেকে উইনার হওয়া পর্যন্ত পরিপূর্ণ মাস্টারক্লাস এটা ..  যদি আপনি একজন CSE Student হন — এবং আপনার জীবনে কিছু Extra করতে চান, এই ভিডিও আপনার জন্য Game Changer হতে পারে!  
@@ -163,6 +175,7 @@ Time Management সহ অনেক টিপস
 ✅ কীভাবে বাংলাদেশ বা বিশ্বের যেকোনো Hackathon খুঁজে বের করবেন
 ✅ আর হ্যাঁ… Hackathon এ জেতার গোপন কৌশল গুলোও জানবেন, যা কেউ বলে না! [Watch ](https://youtu.be/YOJxgMAXEsY)
 
+---
 
 ### The Ultimate Research Guide Masterclass for Everyone 📚 Zero to Published! থিসিস রিসার্চ 
 বিশ্ববিদ্যালয়ে পড়াশোনা শুরু করলেই একটা শব্দ বারবার কানে আসে — "রিসার্চ" একটা সময় আসে যখন মনে হয়, “রিসার্চ করলে ভালো হতো, CV-ও স্ট্রং হতো, বাইরে স্কলারশিপও পেতাম।” কিন্তু সমস্যাটা হলো, কোথা থেকে শুরু করবো, কী নিয়ে কাজ করবো, কাকে জিজ্ঞেস করবো — কিছুই জানি না! 
@@ -182,9 +195,13 @@ Time Management সহ অনেক টিপস
 
 [Watch ](https://youtu.be/iVdPuPCQ4SY) 
 
-### Get Your First Internship Or Job with ZERO Experience 🔍 প্রথম চাকরি পাওয়ার গাইড
-কোনো পূর্ব অভিজ্ঞতা ছাড়াই কীভাবে প্রথম ইন্টার্নশিপ বা চাকরি পাবেন?   এই ভিডিওতে আমি শেয়ার করছি আমার Step-by-Step রোডম্যাপ, যেটা ফলো করলে আপনি স্কিল শিখে, প্রজেক্ট বানিয়ে, LinkedIn ও CV ব্যবহার করে একদম শুরু থেকে চাকরি বা ইন্টার্নশিপ পেতে পারেন....
+---
 
+### Get Your First Internship Or Job with ZERO Experience 🔍 প্রথম চাকরি পাওয়ার গাইড
+
+কোনো পূর্ব অভিজ্ঞতা ছাড়াই কীভাবে প্রথম ইন্টার্নশিপ বা চাকরি পাবেন?   এই ভিডিওতে আমি শেয়ার করছি আমার Step-by-Step রোডম্যাপ, যেটা ফলো করলে আপনি স্কিল শিখে, প্রজেক্ট বানিয়ে, LinkedIn ও CV ব্যবহার করে একদম শুরু থেকে চাকরি বা ইন্টার্নশিপ পেতে পারেন....
 বিশেষ করে আপনি যদি Computer Science পড়েন কিন্তু প্রতিযোগিতামূলক (competitive) নন, কিংবা Programming Olympiad বা বড় বড় হ্যাকাথনে অংশ না নিয়ে থাকেন, তাহলে আপনার প্রথম চাকরির রাস্তাটা অনেক সময় কণ্টকাকীর্ণ হতে পারে।
 তবে ভয় নেই – সঠিক পরিকল্পনা, কিছু স্মার্ট টেকনিক, এবং সঠিক প্রস্তুতি থাকলে ইন্টার্নশিপ বা অভিজ্ঞতা ছাড়াই আপনার প্রথম চাকরি পাওয়া সম্ভব। চলুন খেলার মতো ধাপে ধাপে জানি কিভাবে!
 [Watch ](https://youtu.be/oW8mhlmfXpY) 
+
+--- 
