@@ -18,6 +18,28 @@
 
 ---
 
+📌 **Index**  
+All videos listed below are part of the 📺 *CSE Passport Playlist*  
+## 🎥 CSE Passport Playlist (15 Videos)
+1. [Complete CSE Roadmap: Programming, Skills, CGPA & Research](#-cse-roadmap-complete-guide-programming-skills-cgpa-research)
+2. [Laptop Buying Guide 2026: Coding, AI/ML & Freelancing](#-perfect-laptop-for-cse-students--laptop-for-coding-ai-ml--freelancing--2026-guide)
+3. [Used Laptop Buying Guide 💻 Budget & Performance](#used-laptop-buying-guide--used-laptop-কেনার-আগে-এই-ভুলগুলো-avoid-করুন--cs-non-cs)
+4. [Non-Coding Tech Careers in 2025](#tech-career-without-coding-in-2025--coding-ছাড়াই-it-ক্যারিয়ার-high-salary-jobs)
+5. [Top Books Every CSE Student Must Read](#top-books-every-cse-student-must-read--career-code-soft-skills--financial-freedom)
+6. [Government Jobs Guide for CSE Students 🇧🇩](#govt-job-guide-for-cse-students--cse-পড়ে-সরকারি-চাকরি-bcs-থেকে-ব্যাংক-পর্যন্ত-)
+7. [CGPA vs Skills 🎯 What Really Matters?](#cgpa-vs-skills--what-is-more-important-for-your-career-সত্যি-কি-cgpa-ম্যাটার-কর)
+8. [Time Management & Focus Guide ⏰](#time-management-masterplan-for-cs-and-non-cs-students--productivity-focus-tips)
+9. [ATS-Proof CV Masterclass (CS & Non-CS)](#making-a-perfect-cv-masterclass--ai-proof-ats-cv-tips-2025--cs--non-cs)
+10. [Side Hustles & Passive Income in 2025](#how-to-make-money-as-a-student-in-2025--৭টি-smart-side-hustle-আইডিয়া)
+11. [Career Rebuild Plan for 3rd Year Students](#3rd-year-career-rebuild-plan-for-backbenchers--এক-বছরে-কমব্যাক--cse--non-cs)
+12. [Perfect Presentation Masterclass](#how-to-give-a-perfect-presentation--university-presentation-skills-masterclass)
+13. [Hackathon Winner Masterclass](#hackathon-winner-masterclass-from-beginner-to-champion-for-cse-students)
+14. [Ultimate Research Guide (Thesis + Paper)](#the-ultimate-research-guide-masterclass-for-everyone--zero-to-published-থিসিস-রিসার্চ)
+15. [Internship/Job with ZERO Experience](#get-your-first-internship-or-job-with-zero-experience--প্রথম-চাকরি-পাওয়ার-গাইড)
+
+---
+
+
 ## 🔥 What’s Inside Playlist
 
 ### 📚 CSE Roadmap Complete Guide🔥 Programming, Skills, CGPA, Research, Earning, Scholarship! 
