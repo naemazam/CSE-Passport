@@ -1,5 +1,10 @@
 # 🎓 সিএসই প্যাসপোর্ট  🎓 CSE Passport -  The Ultimate Playlist for Every CSE Student in Bangladesh!
 
+<p align="center">
+  <img src="./2.png" alt="CSE Passport Banner" width="10%">
+</p>
+
+
 আপনার CSE লাইফকে সহজ ও সাকসেসফুল করতে চান? তাহলে “CSE পাসপোর্ট 🎓” - আপনার জন্যই!
 এখানে আপনি পাবেন CSE স্টুডেন্টদের জন্য ১৫টি সেরা ভিডিও 📚  যেখানে আলোচনা করা হয়েছে —
 - ✅ Programming & Skill Roadmaps
