@@ -43,10 +43,25 @@ All videos listed below are part of the 📺 *CSE Passport Playlist*
 15. [Internship/Job with ZERO Experience](#get-your-first-internship-or-job-with-zero-experience--প্রথম-চাকরি-পাওয়ার-গাইড)
 
 ## 📘 Books Collection
-## ❓ Interview Questions (CS & Tech Jobs)
-## 📝 Handwriting Notes
-## 📂 Scholarship & Masters Roadmap (BD & Abroad)
+1. DSA Books
 
+## Profile Makeing 
+1. CV Template
+## ❓ Interview Questions (CS & Tech Jobs)
+1. 
+## 📝 Handwriting Notes
+## 📝 Languages Test
+1. IELTS
+2. GMAT
+3. GRE
+4. DuolingGo
+## 📂 Scholarship & Masters Roadmap (BD & Abroad)
+1. World ALL Scholership Files
+2. Research Proposal
+3. Reference letter format
+4. Visa Interviews Questions 
+5. Letter To Prof
+   
 ---
 
 ## 🔥 What’s Inside Playlist
