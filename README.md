@@ -44,6 +44,8 @@ All videos listed below are part of the 📺 *CSE Passport Playlist*
 
 ## 📘 Books Collection
 1. DSA Books
+2. C Pro Books
+3. 
 
 ## Profile Makeing 
 1. CV Template
