@@ -18,7 +18,7 @@
 
 ---
 
-📌 **Index**  
+# 📌 Index 
 All videos listed below are part of the 📺 *CSE Passport Playlist*  
 ## 🎥 CSE Passport Playlist (15 Videos)
 1. [Complete CSE Roadmap: Programming, Skills, CGPA & Research](#-cse-roadmap-complete-guide-programming-skills-cgpa-research)
@@ -37,8 +37,12 @@ All videos listed below are part of the 📺 *CSE Passport Playlist*
 14. [Ultimate Research Guide (Thesis + Paper)](#the-ultimate-research-guide-masterclass-for-everyone--zero-to-published-থিসিস-রিসার্চ)
 15. [Internship/Job with ZERO Experience](#get-your-first-internship-or-job-with-zero-experience--প্রথম-চাকরি-পাওয়ার-গাইড)
 
----
+## 📘 Books Collection
+## ❓ Interview Questions (CS & Tech Jobs)
+## 📝 Handwriting Notes
+## 📂 Scholarship & Masters Roadmap (BD & Abroad)
 
+---
 
 ## 🔥 What’s Inside Playlist
 
