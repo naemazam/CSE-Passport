@@ -52,6 +52,10 @@ All videos listed below are part of the 📺 *CSE Passport Playlist*
 ## ❓ Interview Questions (CS & Tech Jobs)
 1. DSA 100 Questions 
 ## 📝 Handwriting Notes
+1. HTML notes
+2. CSS notes
+3. React Notes
+4. Js Notes
 ## 📝 Languages Test
 1. IELTS
 2. GMAT
